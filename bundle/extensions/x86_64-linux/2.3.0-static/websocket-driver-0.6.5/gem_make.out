@@ -1,0 +1,15 @@
+current directory: /home/lenovo/git/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/home/lenovo/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20180224-5673-f89e31.rb extconf.rb
+creating Makefile
+
+current directory: /home/lenovo/git/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/lenovo/git/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/lenovo/git/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20180224-5673-15uf0vo
